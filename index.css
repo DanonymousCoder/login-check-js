@@ -5,3 +5,6 @@
 .container {
     position: absolute;
 }
+.login-box {
+    position: relative;
+}
