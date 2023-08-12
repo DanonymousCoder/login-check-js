@@ -8,6 +8,9 @@ if (input === 'Admin') {
     else if (pass === ' ' ||  null) {
         alert('Canceled');
     }
+    else {
+        alert('Wrong password!')
+    }
 }
 else if (input === ' ' || null) {
     alert('Canceled');
