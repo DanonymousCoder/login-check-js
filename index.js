@@ -16,5 +16,5 @@ else if (input === ' ' || null) {
     alert('Canceled');
 }
 else{
-    alert('I don/'t know you?')
+    alert('I don't know you?')
 }
