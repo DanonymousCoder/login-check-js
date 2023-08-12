@@ -9,3 +9,6 @@ if (input = 'Admin') {
         alert('Canceled');
     }
 }
+else if (input = ' ' || snull) {
+
+}
