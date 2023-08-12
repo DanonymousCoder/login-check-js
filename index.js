@@ -1,6 +1,6 @@
 // Login checker
 let name = 'Admin';
-aprompt('Who are you?');
+prompt('Who are you?');
 
 if (input = 'Admin') {
     prompt('Password');
