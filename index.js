@@ -10,5 +10,5 @@ if (input = 'Admin') {
     }
 }
 else if (input = ' ' || null) {
-    alert('Canceled')
+    alert('Canceled');
 }
