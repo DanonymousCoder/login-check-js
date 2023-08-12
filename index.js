@@ -6,6 +6,6 @@ if (input = 'Admin') {
         alert('Welcome');
     }
     else if (pass = ' ' ||  null) {
-        alert('Canceled')
+        alert('Canceled');
     }
 }
