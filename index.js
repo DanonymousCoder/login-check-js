@@ -5,4 +5,4 @@ Window.prompt('Who are you?');
 if (input = 'Admin') {
     prompt('Password');
 }
-else if (input = Esc or empty lineadd)
+else if (input || Esc or empty lineadd)
