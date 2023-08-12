@@ -13,3 +13,6 @@
     height: 800px;
     width: 600px;
 }
+p.head {
+    font-weight: bolder;
+}
