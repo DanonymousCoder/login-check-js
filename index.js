@@ -9,6 +9,6 @@ if (input === 'Admin') {
         alert('Canceled');
     }
 }
-else if (input = ' ' || null) {
+else if (input === ' ' || null) {
     alert('Canceled');
 }
