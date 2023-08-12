@@ -5,7 +5,7 @@ if (input === 'Admin') {
     if (pass === 'TheMaster') {
         alert('Welcome!');
     }
-    else if (pass = ' ' ||  null) {
+    else if (pass === ' ' ||  null) {
         alert('Canceled');
     }
 }
