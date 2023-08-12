@@ -9,7 +9,7 @@ if (input === 'Admin') {
         alert('Canceled');
     }
     else {
-        alert('Wrong password!')
+        alert('Wrong password!');
     }
 }
 else if (input === ' ' || null) {
