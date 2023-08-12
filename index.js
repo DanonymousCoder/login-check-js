@@ -5,4 +5,6 @@ Window.prompt('Who are you?');
 if (input = 'Admin') {
     prompt('Password');
 }
-else if (input = Esc || empty-line)
+else if (input = Esc || empty-line) {
+    alert('Canceled')
+}
