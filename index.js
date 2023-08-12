@@ -12,7 +12,7 @@ if (input === 'Admin') {
         alert('Wrong password!');
     }
 }
-else if (input === ' ' || null) {
+else if (userName === ' ' || null) {
     alert('Canceled');
 }
 else{
