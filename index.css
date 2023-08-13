@@ -25,3 +25,6 @@ p.head {
     font-size: 40px;
     padding-top: 20px;
 }
+p.sub {
+    font-size: 30px;
+}
