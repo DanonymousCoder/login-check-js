@@ -36,5 +36,5 @@ input {
     margin-left: 15px;
 }
 .btn {
-    text-decoration: none;
+    display: flexS;
 }
