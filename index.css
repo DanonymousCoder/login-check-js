@@ -10,6 +10,7 @@
     display: flex;
     height: 800px;
     width: 600px;
+    justify-content: center;
 }
 p.head {
     font-weight: bolder;
