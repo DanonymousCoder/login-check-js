@@ -11,7 +11,7 @@
 .login-box {
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 450px;
     width: 500px;
     justify-content: center;
     background-color: rgba(0, 162, 255, 0.925);
