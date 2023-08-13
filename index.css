@@ -18,6 +18,7 @@
     margin: 200px;
     padding: 30px;
     gap: 1.5rem;
+    border-radius: 10px;
 }
 p.head {
     font-weight: bolder;
