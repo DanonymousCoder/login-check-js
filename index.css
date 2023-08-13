@@ -5,6 +5,7 @@
 .container {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .login-box {
     display: flex;
