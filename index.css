@@ -35,6 +35,6 @@ input {
     border: 2px solid gray;
     margin-left: 15px;
 }
-a.btn {
+.btn {
     text-decoration: none;
 }
