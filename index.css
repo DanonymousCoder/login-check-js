@@ -40,6 +40,7 @@ input {
     gap: 2rem;
     text-align: center;
     justify-content: center;
+    padding-top: 40px;
 }
 a {
     text-decoration: none;
