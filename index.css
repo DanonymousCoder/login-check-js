@@ -27,6 +27,7 @@ p.head {
 }
 p.sub {
     font-size: 30px;
+    padding-top: 5px;
 }
 input {
     height: 35px;
