@@ -44,4 +44,5 @@ input {
 a {
     text-decoration: none;
     background-color: rgba(127, 146, 255, 0.418);
+    padding: 10px 20px;
 }
