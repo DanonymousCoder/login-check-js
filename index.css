@@ -38,6 +38,7 @@ input {
 .btn {
     display: flex;
     gap: 2rem;
+    text-align: center;
 }
 a {
     text-decoration: none;
