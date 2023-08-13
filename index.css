@@ -45,4 +45,5 @@ a {
     text-decoration: none;
     background-color: rgba(127, 146, 255, 0.418);
     padding: 15px 30px;
+    border-radius: 10px;
 }
