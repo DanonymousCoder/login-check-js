@@ -28,3 +28,6 @@ p.head {
 p.sub {
     font-size: 30px;
 }
+input {
+    height: 100px;
+}
