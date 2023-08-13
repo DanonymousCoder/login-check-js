@@ -37,6 +37,7 @@ input {
     margin-left: 15px;
     padding: 10px 30px;
     color: black;
+    font-size: 20px;
 }
 .btn {
     display: flex;
