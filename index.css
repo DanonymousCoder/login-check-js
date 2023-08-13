@@ -37,7 +37,7 @@ input {
 }
 .btn {
     display: flex;
-    gap: 2.5rem;
+    gap: 3rem;
     text-align: center;
     justify-content: center;
     padding-top: 50px;
